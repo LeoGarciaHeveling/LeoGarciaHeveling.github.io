@@ -35,9 +35,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6985-6251"
-  inspirehep       : "https://inspirehep.net/authors/2020360"
   pubmed           : # URL
   researchgate     : # URL
+  links:
+    - label: "inspireHEP"
+      icon: "fa-solid fa-box-archive"
+      url: "https://inspirehep.net/authors/2020360"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -65,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
