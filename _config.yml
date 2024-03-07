@@ -37,10 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-6985-6251"
   pubmed           : # URL
   researchgate     : # URL
-  links:
-    - label: "inspireHEP"
-      icon: "fa-solid fa-box-archive"
-      url: "https://inspirehep.net/authors/2020360"
+  inspirehep       : "https://inspirehep.net/authors/2020360"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
