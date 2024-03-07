@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leonardo García Heveling"
+title                    : "Leonardo García-Heveling"
 title_separator          : "-"
-name                     : &name "Leonardo García Heveling"
+name                     : &name "Leonardo García-Heveling"
 description              : &description "Postdoc in Mathematical Physics"
 url                      : https://LeoGarciaHeveling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ repository               : "LeoGarciaHeveling/LeoGarciaHeveling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Leonardo García Heveling"
+  avatar           : "Leo.jpg"
+  name             : "Leonardo García-Heveling"
   pronouns         : "he/him"  
   bio              : "Postdoc in Mathematical Physics"
   location         : "Germany"
