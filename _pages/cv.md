@@ -29,5 +29,5 @@ Prizes and Grants
     * Part of a thematic programm on [Nonsmooth Riemannian and Lorentzian Geometry](http://www.fields.utoronto.ca/activities/22-23/nonsmooth)
 * Funds for research stay at the Erwin Schrödinger Institut, Vienna (2 weeks in 2023)
     * Part of a workshop on [Non-regular Spacetime Geometry](https://www.esi.ac.at/events/e460/)
-* Cum lauge distinction for my PhD thesis (highest possible in the Netherlands)
+* Cum laude distinction for my PhD thesis (highest possible in the Netherlands)
 * [KWG PhD Prize](https://www.wiskgenoot.nl/index.php?page=88&sid=2) of the Royal Dutch Mathematical Society
