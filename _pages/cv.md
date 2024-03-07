@@ -19,10 +19,8 @@ Work experience
 ======
 * Postdoctoral researcher at Universität Hamburg (2023-present)
     * With teaching duties
-
 * Predoctoral researcher at Radboud University (2019-2023)
     * With teaching duties
-
 * Teaching assistant at LMU München (2018-2019)
 
 Prizes and Grants
