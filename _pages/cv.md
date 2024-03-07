@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. thesis ["Time and Causality in Non-smooth Lorentzian Geometry"](https://hdl.handle.net/2066/295781), Radboud University Nijmegen, 2023
 * M.Sc. in Theoretical and Mathematical Physics, Ludwig-Maximilians-Universität München, 2019
-* B.Sc. in Physics with Minor in Mathematics, Universitat de Barcelona, 2017
+* B.Sc. in Physics with minor in Mathematics, Universitat de Barcelona, 2017
 
 Work experience
 ======
