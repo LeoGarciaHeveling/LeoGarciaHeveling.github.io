@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. thesis "Time and Causality in Non-Smooth Lorentzian Geometry", Radboud University Nijmegen, 2023
+* M.Sc. in Theoretical and Mathematical Physics, Ludwig-Maximilians-Universität München, 2019
+* B.Sc. in physics with Minor in Mathematics, Universitat de Barcelona, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral researcher at Universität Hamburg (2023-present)
+    * With teaching duties
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Predoctoral researcher at Radboud University (2019-2023)
+    * With teaching duties
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching assistant at LMU München (2018-2019)
 
-Publications
+Prizes and Grants
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fully funded 3 month research stay at the Fields Intitute, Toronto (3 months in 2022)
+    * Part of a thematic programm on Non-Smooth Riemannian and Lorentzian Geometry
+* Cum lauge distinction for my PhD thesis (highest possible in the Netherlands)
+* KWG PhD Prize of the Royal Dutch Mathematical Society 
