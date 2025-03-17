@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-All full texts are also available on <a href="{{site.author.arxiv}}">arXiv</a>.</div> 
+All full texts are also available on <a href="{{site.author.arxiv}}">arXiv</a>.
 
 {% include base_path %}
 
