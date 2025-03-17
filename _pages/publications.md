@@ -10,13 +10,13 @@ All full texts are also available on <a href="{{site.author.arxiv}}">arXiv</a>.<
 {% include base_path %}
 
 Preprints
-======
+===
 * (with A. Zeghib) Isometries of spacetimes without observer horizons. [arXiv:2502.13904](https://doi.org/10.48550/arXiv.2502.13904).
 * (with G.J. Galloway) Mean Curvature, Singularities and Time Functions in Cosmology. [arXiv:2407.04455](https://doi.org/10.48550/arXiv.2407.04455).
 * Minimal Elements of the Causal Boundary with Applications to Spacetime Splitting. [arXiv:2403.07782](https://doi.org/10.48550/arXiv.2403.07782).
 
 Journal Articles
-======
+===
 * (with A. Burtscher) Time Functions on Lorentzian Length Spaces. [<i>Annales Henri Poincaré</i>, online first (2024)](https://doi.org/10.1007/s00023-024-01461-y).
 * Volume Singularities in General Relativity. [<i>Letters in Mathematical Physics</i> <b>114</b>, 71 (2024)](https://doi.org/10.1007/s11005-024-01814-y).
 * Radial Gravitational Collapse Causes Timelike Incompleteness. [<i>Physical Review D</i> <b>109</b>, 084034 (2024)](https://doi.org/10.1103/PhysRevD.109.084034).
