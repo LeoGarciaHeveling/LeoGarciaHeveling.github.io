@@ -24,3 +24,7 @@ Journal Articles
 * Topology change with Morse functions: progess on the Borde--Sorkin conjecture. [<i>Advances in Theoretical and Mathematical Physics</i> <b>27</b>(4), 1159-1190 (2023)](https://doi.org/10.4310/ATMP.2023.v27.n4.a4).
 * (with E. Soultanis) Causal bubbles in globally hyperbolic spacetimes. [<i>General Relativity and Gravitation</i> <b>54</b>, 155 (2022)](https://doi.org/10.1007/s10714-022-03041-z).
 * Causality theory of spacetimes with continuous Lorentzian metrics revisited. [<i>Classical and Quantum Gravity</i> <b>38</b>, 145028 (2021)](https://doi.org/10.1088/1361-6382/ac067a).
+
+Thesis
+===
+* Time and Causality in Non-smooth Lorentzian Geometry. [PhD Thesis, Radboud University Nijmegen (2023)](https://hdl.handle.net/2066/295781)
