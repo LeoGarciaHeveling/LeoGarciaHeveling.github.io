@@ -17,7 +17,7 @@ Preprints
 Journal Articles
 ===
 * Minimal Elements of the Causal Boundary with Applications to Spacetime Splitting. [<i>Mediterranean Journal of Mathematics</i> <b>22</b>, 63 (2025)](https://doi.org/10.1007/s00009-025-02832-3).
-* (with A. Burtscher) Time Functions on Lorentzian Length Spaces. [<i>Annales Henri Poincaré</i>, online first (2024)](https://doi.org/10.1007/s00023-024-01461-y).
+* (with A. Burtscher) Time Functions on Lorentzian Length Spaces. [<i>Annales Henri Poincaré</i> <b>26</b>, 1533–1572 (2025)](https://doi.org/10.1007/s00023-024-01461-y).
 * Volume Singularities in General Relativity. [<i>Letters in Mathematical Physics</i> <b>114</b>, 71 (2024)](https://doi.org/10.1007/s11005-024-01814-y).
 * Radial Gravitational Collapse Causes Timelike Incompleteness. [<i>Physical Review D</i> <b>109</b>, 084034 (2024)](https://doi.org/10.1103/PhysRevD.109.084034).
 * (with A. Burtscher) Global Hyperbolicity through the Eyes of the Null Distance. [<i>Communications in Mathematical Physics</i> <b>405</b>, 90 (2024)](https://doi.org/10.1007/s00220-024-04936-5).
