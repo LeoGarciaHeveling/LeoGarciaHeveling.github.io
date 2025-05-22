@@ -11,6 +11,7 @@ All full texts are also available on <a href="{{site.author.arxiv}}">arXiv</a>.
 
 Preprints
 ===
+* (with A. Zeghib) Conformal transformations of spacetimes without observer horizons. [arXiv:2505.11148](https://doi.org/10.48550/arXiv.2505.11148).
 * (with A. Zeghib) Isometries of spacetimes without observer horizons. [arXiv:2502.13904](https://doi.org/10.48550/arXiv.2502.13904).
 * (with G.J. Galloway) Mean Curvature, Singularities and Time Functions in Cosmology. [arXiv:2407.04455](https://doi.org/10.48550/arXiv.2407.04455).
 
