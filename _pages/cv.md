@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Postdoctoral researcher at Universität Hamburg (2023-present)
+* Postdoctoral researcher at Universität Wien (2025-present)
+* Postdoctoral researcher at Universität Hamburg (2023-2025)
     * With teaching duties
 * Predoctoral researcher at Radboud University (2019-2023)
     * With teaching duties
