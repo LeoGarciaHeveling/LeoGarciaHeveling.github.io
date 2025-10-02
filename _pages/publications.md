@@ -13,10 +13,10 @@ Preprints
 ===
 * (with A. Zeghib) Conformal transformations of spacetimes without observer horizons. [arXiv:2505.11148](https://doi.org/10.48550/arXiv.2505.11148).
 * (with A. Zeghib) Isometries of spacetimes without observer horizons. [arXiv:2502.13904](https://doi.org/10.48550/arXiv.2502.13904).
-* (with G.J. Galloway) Mean Curvature, Singularities and Time Functions in Cosmology. [arXiv:2407.04455](https://doi.org/10.48550/arXiv.2407.04455).
 
-Journal Articles
+Peer-reviewed articles
 ===
+* (with G.J. Galloway) Mean Curvature, Singularities and Time Functions in Cosmology. [In: Barrera, W., Herrera, J., Navarrete, J.P., Navarro, M., Palmas, O., Solis, D.A. (eds) Progress in Lorentzian Geometry. GELOMA 2024. Springer Proceedings in Mathematics & Statistics, vol 512. Springer, Cham.](https://doi.org/10.1007/978-3-031-99212-4_8)
 * Minimal Elements of the Causal Boundary with Applications to Spacetime Splitting. [<i>Mediterranean Journal of Mathematics</i> <b>22</b>, 63 (2025)](https://doi.org/10.1007/s00009-025-02832-3).
 * (with A. Burtscher) Time Functions on Lorentzian Length Spaces. [<i>Annales Henri Poincaré</i> <b>26</b>, 1533–1572 (2025)](https://doi.org/10.1007/s00023-024-01461-y).
 * Volume Singularities in General Relativity. [<i>Letters in Mathematical Physics</i> <b>114</b>, 71 (2024)](https://doi.org/10.1007/s11005-024-01814-y).
