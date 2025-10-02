@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the group of [Melanie Graf](https://grafmelanie.wordpress.com/) at the Mathematics Department of the [University of Hamburg](https://www.math.uni-hamburg.de/spag/ad/index.html). Before that, I completed my PhD with [Annegret Burtscher](https://annegretburtscher.wordpress.com/) at the Radboud University Nijmegen. My research is in Lorentzian Geometry and Mathematical General Relativity.
+I am a mathematical physicist interested in Lorentzian Geometry and General Relativity. Currently, I hold a postdoctoral position at the University of Viena, as part of the FWF-project [A new Geometry for Einstein’s Theory of Relativity & Beyond](https://ef-geometry.univie.ac.at/). Before that, I was a postdoc in the group of [Melanie Graf](https://grafmelanie.wordpress.com/) at the [University of Hamburg](https://www.math.uni-hamburg.de/spag/ad/index.html). I completed my PhD with [Annegret Burtscher](https://www.math.ru.nl/~burtscher/) at the [Radboud University Nijmegen](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics).
