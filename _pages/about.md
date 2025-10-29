@@ -11,11 +11,11 @@ I am a mathematical physicist interested in Lorentzian Geometry and General Rela
 
 Contact
 =
-Office 03.132
-Faculty of Mathematics
-University of Vienna
-Oskar-Morgenstern-Platz 1
-1090 Wien
+Office 03.132,
+Faculty of Mathematics,
+University of Vienna,
+Oskar-Morgenstern-Platz 1,
+1090 Wien,
 Austria
 
 Email: [leonardo.garcia.heveling@univie.ac.at](mailto:leonardo.garcia.heveling@univie.ac.at)
