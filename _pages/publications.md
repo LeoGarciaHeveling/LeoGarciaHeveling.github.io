@@ -11,11 +11,11 @@ All full texts are also available on <a href="{{site.author.arxiv}}">arXiv</a>.
 
 Preprints
 ===
-* The cosmological volume function. [arXiv:2512.11626](https://doi.org/10.48550/arXiv.2512.11626).
 * (with A. Zeghib) Conformal transformations of spacetimes without observer horizons. [arXiv:2505.11148](https://doi.org/10.48550/arXiv.2505.11148).
 
 Peer-reviewed articles
 ===
+* Differentiability and other properties of the cosmological volume function. [<i>Letters in Mathematical Physics</i> <b>116</b>, 71 (2026)](https://doi.org/10.1007/s11005-026-02112-5).
 * (with A. Zeghib) Isometries of spacetimes without observer horizons. [<i>Communications in Mathematical Physics</i> <b>407</b>, 84 (2026)](https://doi.org/10.1007/s00220-026-05569-6).
 * (with G.J. Galloway) Mean Curvature, Singularities and Time Functions in Cosmology. [In: Barrera, W., Herrera, J., Navarrete, J.P., Navarro, M., Palmas, O., Solis, D.A. (eds) Progress in Lorentzian Geometry. GELOMA 2024. Springer Proceedings in Mathematics & Statistics, vol 512. Springer, Cham.](https://doi.org/10.1007/978-3-031-99212-4_8)
 * Minimal Elements of the Causal Boundary with Applications to Spacetime Splitting. [<i>Mediterranean Journal of Mathematics</i> <b>22</b>, 63 (2025)](https://doi.org/10.1007/s00009-025-02832-3).
